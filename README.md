@@ -1,8 +1,8 @@
-# [Filipe Gabriel] <img src="https://cdnb.artstation.com/p/assets/images/images/050/950/883/original/vitalik-egorov-enemy3attack.gif?1656158639" width="150px">
+# [Filipe Gabriel] <img src="https://cdnb.artstation.com/p/assets/images/images/050/950/883/original/vitalik-egorov-enemy3attack.gif?1656158639" width="150px">        
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Filipe Gabriel</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Algoritmo</strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
 - 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
 

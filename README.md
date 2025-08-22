@@ -3,7 +3,7 @@
 <strong>Sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Senac-Recife, Sou técnico químico e estudante de gestão da qualidade, trago em meus estudos a experiência para desenvolver na área de tecnologia e seus sistemas, com a gana de solucionar grandes desafios de alto impacto. </strong> 👨🏻‍💻 
 
 - 🚀📚 Atualmente estou aprendendo: <strong> Os 5 Pilares da Lógica de Programação: Tipos de dados, Operadores, Estrutura de controle, Estrutura de dados e Funções </strong> 
-- 📚  <strong> Gosto de ler e ensinar, bíblia, valores, tecnologías </strong>
+- 📚  <strong> Gosto de ler e ensinar: bíblia, valores, tecnologías </strong>
 - 🖥️📚 <strong> Constância nos estudos </strong>
 
 <div align="center">

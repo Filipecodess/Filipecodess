@@ -4,7 +4,7 @@ Eu sou <strong>Filipe Gabriel</strong>, <strong>sou estudante de Análise e Dese
 
 - 🚀📚 Atualmente estou aprendendo: <strong> Os 5 Pilares da Lógica de Programação: Tipos de dados, Operadores, Estrutura de controle, Estrutura de dados e Funções </strong> 
 - 📚  <strong> Gosto de ler e ensinar, bíblia, valores, tecnologías </strong>
-- 🖥️ <strong> Constância dos estudos </strong>
+- 🖥️📚 <strong> Constância nos estudos </strong>
 
 <div align="center">
 

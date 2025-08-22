@@ -8,6 +8,9 @@ Eu sou <strong>Filipe Gabriel</strong>, <strong>sou estudante de Análise e Dese
 
 <div align="center">
 
+
+
+
   <a href="#" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/filipearaújo" /></a>
 

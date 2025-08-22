@@ -8,9 +8,7 @@ Eu sou <strong>Filipe Gabriel</strong>, <strong>sou estudante de Análise e Dese
 
 <div align="center">
 
-  <a href="mailto:SEUEMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/>
-  </a>
+  
 
   <a href="https://www.linkedin.com/in/filipearaújo/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>

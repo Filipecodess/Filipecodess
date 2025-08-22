@@ -12,9 +12,9 @@ Eu sou <strong>Filipe Gabriel</strong>, <strong>sou estudante de Análise e Dese
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
   <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[www.linkedin.com/in/filipearaújo](https://www.linkedin.com/in/filipeara%C3%BAjo/)"/></a>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeara%C3%BAjo/"/></a>
 
   <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://www.instagram.com/filipegabriel__/)"/></a>
 
 </div>

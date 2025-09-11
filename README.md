@@ -1,6 +1,6 @@
 # E aí?? Eu sou o Filipe Gabriel <img src="https://cdnb.artstation.com/p/assets/images/images/050/950/883/original/vitalik-egorov-enemy3attack.gif?1656158639" width="150px">        
 
-<strong>Sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Senac-Recife, Sou técnico químico e estudante de gestão da qualidade, trago em meus estudos a experiência para desenvolver na área de tecnologia e seus sistemas, com a gana de solucionar grandes desafios de alto impacto. </strong> 👨🏻‍💻 
+<strong>Faço parte do programa Embarque Digital e estou embarcado no curso de Análise e Desenvolvimento de Sistemas pela Faculdade Senac de Pernambuco, Sou técnico químico e estudante de gestão da qualidade, trago em meus estudos a experiência para desenvolver na área de tecnologia e seus sistemas, com a gana de solucionar grandes desafios de alto impacto. </strong> 👨🏻‍💻 
 
 - 🚀📚 Atualmente estou aprendendo: <strong> Os 5 Pilares da Lógica de Programação: Tipos de dados, Operadores, Estrutura de controle, Estrutura de dados e Funções </strong> 
 - 📚  <strong> Gosto de ler e ensinar: bíblia, valores, tecnologías </strong>

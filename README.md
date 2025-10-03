@@ -1,22 +1,22 @@
-# E aí?? Eu sou o Filipe Gabriel <img src="https://cdnb.artstation.com/p/assets/images/images/050/950/883/original/vitalik-egorov-enemy3attack.gif?1656158639" width="150px">        
+# Tranquilo? Eu sou Filipe Araújo
+# Sou do Embarque digital e estou embarcado no curso de Análise e Desenvolvimento de Sistemas pela Faculdade Senac do Recife, sou técnico químico e formação em gestão da qualidade. Vamos por mais!!
+🚀 Aprendendo: Seguindo para o BACK-END <br> 📚 Leituras: Scrum - A arte de fazer o dobro do trabalho na metade do tempo, Entendendo Algoritmos - Um guia ilustrado para programadores e outros curiosos <br>
 
-<strong>Faço parte do programa Embarque Digital e estou embarcado no curso de Análise e Desenvolvimento de Sistemas pela Faculdade Senac de Pernambuco, Sou técnico químico e estudante de gestão da qualidade, trago em meus estudos a experiência para desenvolver na área de tecnologia e seus sistemas, com a gana de solucionar grandes desafios de alto impacto. </strong> 👨🏻‍💻 
 
-- 🚀📚 Atualmente estou aprendendo: <strong> Os 5 Pilares da Lógica de Programação: Tipos de dados, Operadores, Estrutura de controle, Estrutura de dados e Funções </strong> 
-- 📚  <strong> Gosto de ler e ensinar: bíblia, valores, tecnologías </strong>
-- 🖥️📚 <strong> Constância nos estudos </strong>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/filipegabriel__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipeara%C3%BAjo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:filipegsa03@gmail.com) 
 
-<div align="center">
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=filipecodess&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=filipecodess&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=filipecodess&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=filipecodess&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  <a href="https://www.linkedin.com/in/filipearaújo/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
+---
+[![](https://visitcount.itsvg.in/api?id=filipecodess&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <a href="https://www.instagram.com/filipegabriel__/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
-  </a>
-
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,6 +1,6 @@
 # Tranquilo? Eu sou Filipe Araújo
 # Sou do Embarque digital e estou embarcado no curso de Análise e Desenvolvimento de Sistemas pela Faculdade Senac do Recife, sou técnico químico e formação em gestão da qualidade. Vamos por mais!!
-🚀 Aprendendo: Seguindo para o BACK-END <br> 📚 Leituras: Scrum - A arte de fazer o dobro do trabalho na metade do tempo, Entendendo Algoritmos - Um guia ilustrado para programadores e outros curiosos <br>
+🚀 Aprendendo: Linguagens Python, Java, Apex - Salesforce <br> 📚 Leituras: Scrum - A arte de fazer o dobro do trabalho na metade do tempo, Entendendo Algoritmos - Um guia ilustrado para programadores e outros curiosos <br>
 
 
 ## 🌐 Socials:
